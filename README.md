@@ -13,7 +13,7 @@
  - [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
  
 ### Java
- - [Object-Oriented Programming with Java](https://java-programming.mooc.fi)
+ - [Object-Oriented Programming in Java](https://java-programming.mooc.fi)
  - [Software Construction in Java](https://www.edx.org/course/software-construction-in-java)
  - [Advanced Software Construction in Java](https://www.edx.org/course/advanced-software-construction-in-java)
  
@@ -41,3 +41,4 @@
 - [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052)
 - [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 - [Code Complete](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)
+- [Algorithms](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X)
