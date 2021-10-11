@@ -32,6 +32,7 @@
  - [Modern Web Development](https://fullstackopen.com/en)
  
 ### Python
+ - [Programming in Python](https://programming-21.mooc.fi)
  - [Python for Everybody](https://www.py4e.com)
 
 ### Miscellaneous
