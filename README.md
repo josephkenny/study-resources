@@ -16,6 +16,13 @@
  - [Object-Oriented Programming in Java](https://java-programming.mooc.fi)
  - [Software Construction in Java](https://www.edx.org/course/software-construction-in-java)
  - [Advanced Software Construction in Java](https://www.edx.org/course/advanced-software-construction-in-java)
+
+### Python
+ - [Programming in Python](https://programming-22.mooc.fi)
+ - [Python for Everybody](https://www.py4e.com)
+
+### JavaScript
+ - [The Modern JavaScript Tutorial](https://javascript.info)
  
 ### Data Structures and Algorithms
  - [Data Structures](https://sp19.datastructur.es)
@@ -24,16 +31,12 @@
  
 ### Databases and SQL
  - [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)
-
-### JavaScript
- - [The Modern JavaScript Tutorial](https://javascript.info)
  
 ### Web Development
  - [Modern Web Development](https://fullstackopen.com/en)
- 
-### Python
- - [Programming in Python](https://programming-21.mooc.fi)
- - [Python for Everybody](https://www.py4e.com)
+
+### Data Analysis
+ - [Data Analysis with Python](https://courses.mooc.fi/org/uh-cs/courses/dap-22)
 
 ### Miscellaneous
  - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu)
